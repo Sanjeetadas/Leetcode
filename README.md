@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sanjeetadas/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sanjeetadas/Leetcode/tree/master/0049-group-anagrams) |
+| [0645-set-mismatch](https://github.com/Sanjeetadas/Leetcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sanjeetadas/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Sanjeetadas/Leetcode/tree/master/0049-group-anagrams) |
 | [0485-max-consecutive-ones](https://github.com/Sanjeetadas/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Sanjeetadas/Leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/Sanjeetadas/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sanjeetadas/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sanjeetadas/Leetcode/tree/master/0049-group-anagrams) |
+| [0645-set-mismatch](https://github.com/Sanjeetadas/Leetcode/tree/master/0645-set-mismatch) |
 ## Trie
 |  |
 | ------- |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Sanjeetadas/Leetcode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Sanjeetadas/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
