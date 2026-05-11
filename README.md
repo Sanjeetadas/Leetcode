@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sanjeetadas/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sanjeetadas/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sanjeetadas/Leetcode/tree/master/0125-valid-palindrome) |
+| [2833-furthest-point-from-origin](https://github.com/Sanjeetadas/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sanjeetadas/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2833-furthest-point-from-origin](https://github.com/Sanjeetadas/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Database
 |  |
 | ------- |
