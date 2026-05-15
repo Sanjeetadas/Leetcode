@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sanjeetadas/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Sanjeetadas/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Sanjeetadas/Leetcode/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanjeetadas/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanjeetadas/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Sanjeetadas/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sanjeetadas/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sanjeetadas/Leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanjeetadas/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## String Matching
 |  |
 | ------- |
