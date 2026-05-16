@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sanjeetadas/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sanjeetadas/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sanjeetadas/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sanjeetadas/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjeetadas/Leetcode/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanjeetadas/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Sanjeetadas/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sanjeetadas/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sanjeetadas/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sanjeetadas/Leetcode/tree/master/0125-valid-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/Sanjeetadas/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Array
@@ -62,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sanjeetadas/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Sanjeetadas/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sanjeetadas/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sanjeetadas/Leetcode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Sanjeetadas/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
